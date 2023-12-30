@@ -10,8 +10,7 @@
   <div align="center" class="main">
     <img src="https://telegra.ph/file/a3cb3587e86dd31a0bc3d.jpg" width="300" height="300" />
     <h1>ＺＵＳＹＣＯ - ＭＤ</h1>
-
-    <a href="https://github.com/DarkMakerofc">
+<a href="https://github.com/DarkMakerofc">
       <img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github">
     </a>
     <br>
@@ -28,31 +27,29 @@
   </div>
   <div align="left">
 
-    <h3>Frok ZUSYCO-MD Repository</h3>
+ <h3>Frok ZUSYCO-MD Repository</h3>
     <a href="https://github.com/DarkMakerofc/ZUSYCO-MD/fork">FORK REPOSITORY</a>
-
-    <h3>Link Bot To Your Whatsapp.</h3>
+  <h3>Link Bot To Your Whatsapp.</h3>
     <ul>
       <li><a href="https://gpt-qr-code.onrender.com/zusyco">SCAN QR CODE</a></li>
       <li><a href="#">USE PAIR CODE</a></li>
     </ul>
 
-    <h4>Upload QR File</h4>
+ <h4>Upload QR File</h4>
     <i>Upload Your <strong>ZUSYCO-QR.nima</strong> File</i>
+   <h3>DEPLOY USING YOUR HOST</h3>
 
-    <h3>DEPLOY USING YOUR HOST</h3>
-
-    <blockquote>
+  <blockquote>
       <p>DEPLOY ON HEROKU</p>
       <p>Copy This Url, Put Like This &lt;template_link&gt;&lt;your_github_link&gt; <a href="https://heroku.com/deploy?template=">Heroku Deploy</a></p>
     </blockquote>
 
-    <blockquote>
+   <blockquote>
       <p>DEPLOY ON REPLIT</p>
       <p><a href="https://replit.com/github/darkmakerofc/ZUSYCO-MD">Deploy Now</a></p>
     </blockquote>
 
-    <br><br><br>
+  <br><br><br>
 
   </div>
 
